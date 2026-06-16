@@ -1,0 +1,26 @@
+{
+  "name": "AuditNova",
+  "short_name": "AuditNova",
+  "description": "Trust Meets Innovation — AI-powered audit & compliance platform.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0B1E47",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/__l5e/assets-v1/33da60b1-3cd3-4451-8cb4-298cf1da764e/auditnova-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/__l5e/assets-v1/33da60b1-3cd3-4451-8cb4-298cf1da764e/auditnova-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

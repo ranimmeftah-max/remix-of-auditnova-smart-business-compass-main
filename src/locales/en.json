@@ -1,0 +1,699 @@
+{
+  "brand": {
+    "name": "AuditNova",
+    "tagline": "Trust Meets Innovation"
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "dashboard": "Dashboard",
+    "signout": "Sign out"
+  },
+  "common": {
+    "loading": "Loading…",
+    "save": "Save",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "comingSoon": "Coming soon",
+    "freeTrial": "14-day free trial"
+  },
+  "landing": {
+    "heroEyebrow": "AI audit & compliance platform — Algeria",
+    "heroTitle": "Automate internal audit and compliance for SMEs",
+    "heroSubtitle": "AuditNova brings audit, advisory, learning and incubation into one intelligent platform, aligned with Algeria's SCF.",
+    "ctaStart": "Start free",
+    "ctaExplore": "Explore features",
+    "trustedBy": "Trusted by startups and university incubators",
+    "featuresTitle": "Everything a resilient, compliant company needs",
+    "featuresSubtitle": "Built-in AI to speed up audits and reduce risk.",
+    "accountsTitle": "One account per role",
+    "accountsSubtitle": "Pick your profile and get a tailored dashboard.",
+    "ctaBottom": "Ready to raise the bar on your audit?",
+    "ctaBottomDesc": "Create your free account and start in seconds."
+  },
+  "features": {
+    "ai": {
+      "title": "AI Audit Assistant",
+      "desc": "Automated financial & operational reviews with recommendations."
+    },
+    "risk": {
+      "title": "AI Risk Detection",
+      "desc": "Early alerts and smart risk classification."
+    },
+    "score": {
+      "title": "Startup Maturity Score",
+      "desc": "Governance, growth, compliance scores."
+    },
+    "investor": {
+      "title": "Investor Matching",
+      "desc": "Discover opportunities and assess readiness."
+    },
+    "lms": {
+      "title": "Interactive Learning",
+      "desc": "Courses, quizzes, and digital certificates."
+    },
+    "copilot": {
+      "title": "Incubation Copilot",
+      "desc": "Monthly tracking, evaluation, and dev plans."
+    }
+  },
+  "accounts": {
+    "enterprise": {
+      "title": "Enterprise Account",
+      "desc": "Startup, SME, Micro-enterprise"
+    },
+    "professional": {
+      "title": "Professional Account",
+      "desc": "Accountants, auditors, financial consultants"
+    },
+    "academic": {
+      "title": "Academic Account",
+      "desc": "Students, professors — 50% discount"
+    },
+    "investor": {
+      "title": "Investor Account",
+      "desc": "Investors, entrepreneurs, project holders"
+    },
+    "subtypes": {
+      "Startup": "Startup",
+      "SME": "SME",
+      "Micro Enterprise": "(CDE) Micro Enterprise",
+      "Accountant": "Accountant",
+      "Auditor": "Auditor",
+      "Financial Consultant": "Financial Consultant",
+      "Business Mentor": "Business Mentor",
+      "Student": "Student",
+      "Professor": "Professor",
+      "Researcher": "Researcher",
+      "CDE": "CDE — Entrepreneurship Development Center",
+      "Investor": "Investor",
+      "Entrepreneur": "Entrepreneur",
+      "Project Holder": "Project Holder"
+    }
+  },
+  "pricing": {
+    "title": "Flexible pricing for every stage",
+    "subtitle": "Start free and upgrade when you grow. 50% off for students and professors.",
+    "free": {
+      "name": "Free",
+      "price": "0",
+      "desc": "To explore"
+    },
+    "monthly": {
+      "name": "Monthly",
+      "price": "4,900",
+      "desc": "For growing teams",
+      "period": "/mo"
+    },
+    "annual": {
+      "name": "Annual",
+      "price": "49,000",
+      "desc": "Save 2 months",
+      "period": "/yr"
+    },
+    "cta": "Get started",
+    "ctaPremium": "Subscribe",
+    "currency": "DZD",
+    "trial": "All plans include a 14-day free trial",
+    "startupSection": {
+      "title": "Startup plans",
+      "subtitle": "Innovative services tailored for startups — pricing that fits your growth stage",
+      "launch": {
+        "name": "Launch",
+        "price": "9,900",
+        "period": "/mo",
+        "desc": "Essentials: readiness, compliance, growth"
+      },
+      "scale": {
+        "name": "Scale",
+        "price": "19,900",
+        "period": "/mo",
+        "desc": "Launch + investor readiness, governance, AI risk"
+      },
+      "annual": {
+        "name": "Full annual bundle",
+        "price": "189,000",
+        "period": "/yr",
+        "desc": "All 8 services + priority support + unlimited reports"
+      }
+    }
+  },
+  "about": {
+    "title": "About AuditNova",
+    "subtitle": "Where audit meets innovation.",
+    "missionTitle": "Our mission",
+    "missionText": "Digitize internal audit and ensure smart tax compliance for Algerian businesses under SCF.",
+    "valueTitle": "Our values",
+    "values": {
+      "trust": {
+        "title": "Trust",
+        "desc": "Encrypted data and bank-grade protection."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "desc": "AI built for the Algerian accounting context."
+      },
+      "impact": {
+        "title": "Impact",
+        "desc": "Powering the growth of startups and incubators."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "We're here to help.",
+    "name": "Full name",
+    "email": "Email",
+    "message": "Your message",
+    "send": "Send",
+    "sent": "Thanks, we received your message."
+  },
+  "auth": {
+    "welcome": "Welcome back",
+    "createAccount": "Create your free account",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "wilaya": "Wilaya",
+    "wilayaPlaceholder": "Select your wilaya",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "accountType": "Account type",
+    "accountSubtype": "Subtype",
+    "submitSignup": "Create account",
+    "submitSignin": "Sign in",
+    "google": "Continue with Google",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "forgot": "Forgot password?",
+    "passwordMismatch": "Passwords don't match",
+    "checkEmail": "Check your email to confirm your account.",
+    "or": "or",
+    "back": "Back"
+  },
+  "reset": {
+    "title": "Reset password",
+    "newPassword": "New password",
+    "submit": "Update password",
+    "request": "Send reset link",
+    "sent": "Reset link sent to your email.",
+    "updated": "Password updated."
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}",
+    "subtitle": "Here's a quick view of your AuditNova activity.",
+    "trialBadge": "Free trial — ends {{date}}",
+    "quickActions": "Quick actions",
+    "myAccount": "My account",
+    "settings": "Settings",
+    "notifications": "Notifications",
+    "messages": "Messages",
+    "documents": "Documents",
+    "aiChat": "AI Assistant",
+    "noNotifications": "No notifications yet."
+  },
+  "notifications": {
+    "markAllRead": "Mark all as read",
+    "markRead": "Mark as read",
+    "delete": "Delete",
+    "open": "Open",
+    "deleted": "Notification deleted",
+    "allMarkedRead": "All notifications marked as read"
+  },
+  "sidebar": {
+    "overview": "Overview",
+    "schema": "Database Schema",
+    "company": "Company profile",
+    "audit": "Audit assistant",
+    "health": "Maturity score",
+    "investment": "Investment readiness",
+    "kpi": "KPIs",
+    "risk": "Risk management",
+    "reports": "Reports",
+    "clients": "Clients",
+    "workspace": "Audit workspace",
+    "analysis": "Financial analysis",
+    "compliance": "Compliance",
+    "appointments": "Appointments",
+    "learning": "Learning center",
+    "courses": "Courses",
+    "quizzes": "Quizzes",
+    "certificates": "Certificates",
+    "progress": "Progress",
+    "discovery": "Startup discovery",
+    "evaluation": "Evaluation",
+    "comparison": "Comparison",
+    "diligence": "Due diligence",
+    "portfolio": "Portfolio",
+    "myListings": "My Listings",
+    "taxModule": "Tax Module",
+    "g50": "G50 Declaration",
+    "payroll": "Payroll Slips",
+    "invoices": "Invoices",
+    "scf": "SCF Accounting",
+    "annualTax": "Annual Tax",
+    "legalLibrary": "Legal Library",
+    "teaching": "Publish lessons",
+    "enrollments": "Enrollment requests",
+    "startupHub": "Startup Services",
+    "cdeHub": "CDE Thesis",
+    "smeHub": "SME Services"
+  },
+  "footer": {
+    "rights": "© {{year}} AuditNova. All rights reserved.",
+    "made": "Built with care in Algeria."
+  },
+  "lms": {
+    "title": "Learning Center",
+    "subtitle": "Practical courses in audit, accounting, and entrepreneurship.",
+    "searchPlaceholder": "Search a course...",
+    "level": "Level",
+    "language": "Language",
+    "allLevels": "All levels",
+    "allLanguages": "All languages",
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "hours": "h",
+    "free": "Free",
+    "empty": "No courses yet.",
+    "myCourses": "My Courses",
+    "myCoursesSubtitle": "Track progress in courses you enrolled in.",
+    "browse": "Browse",
+    "noEnrollments": "You haven't enrolled in any course yet.",
+    "progress": "Progress",
+    "completed": "Completed",
+    "enroll": "Enroll",
+    "enrollFree": "Enroll for free",
+    "enrolledOk": "Enrolled successfully",
+    "enrollPending": "Enrollment request sent — awaiting professor approval",
+    "enrollmentPending": "Your request is under review. Content unlocks after approval.",
+    "enrollmentRejected": "Your enrollment request was rejected.",
+    "contentLockedPending": "Content is locked until the professor approves your request.",
+    "contentLockedRejected": "You cannot access content — your request was rejected.",
+    "generateAiQuiz": "AI quiz from this lesson",
+    "aiQuizReady": "Quiz created — go to Quizzes section",
+    "courseDoneNeedsQuiz": "All lessons done — pass the professor's exam to earn your certificate",
+    "requestExam": "Request exam access",
+    "examRequestSent": "Your request was sent to the professor",
+    "examRequestPending": "Request pending — the professor will assign the exam soon",
+    "goToExam": "Go to exam",
+    "messageProfessor": "Message professor",
+    "lessonPdf": "Lesson PDF",
+    "downloadPdf": "Download PDF",
+    "curriculum": "Curriculum",
+    "noContent": "No content yet.",
+    "preview": "Preview",
+    "selectLesson": "Select a lesson to begin.",
+    "lessonDone": "Lesson done",
+    "markComplete": "Mark complete",
+    "certIssued": "Congratulations! Certificate issued.",
+    "backToCatalog": "Back to catalog",
+    "notFound": "Course not found",
+    "certificates": "Certificates",
+    "certificatesSubtitle": "Your official certificates with a verification code.",
+    "noCertificates": "No certificates yet. Complete a course to earn one.",
+    "issuedOn": "Issued on {{date}}",
+    "download": "Download PDF",
+    "verify": "Verify",
+    "progressTitle": "My Progress",
+    "enrolled": "Enrolled",
+    "avgProgress": "Average progress",
+    "coursesProgress": "Course progress",
+    "verifyValid": "Certificate is valid",
+    "verifyInvalid": "Certificate is invalid",
+    "verifyInvalidDesc": "We could not find a certificate with this code.",
+    "verifyCourse": "Course",
+    "verifyLearner": "Learner"
+  },
+  "startup": {
+    "hub": {
+      "title": "Startup Services Hub",
+      "subtitle": "8 innovative services to boost your startup readiness",
+      "servicesTitle": "Available services",
+      "open": "Open service",
+      "back": "Back",
+      "readinessScore": "Readiness score",
+      "riskAlerts": "Risk alerts",
+      "complianceOpen": "Open compliance alerts",
+      "loadError": "Could not load data",
+      "retry": "Retry"
+    },
+    "runDone": "Report generated successfully",
+    "result": "Result",
+    "pricing": {
+      "readiness": "Included in Launch — 9,900 DZD/mo",
+      "investor": "Included in Scale — 19,900 DZD/mo",
+      "compliance": "Included in Launch",
+      "governance": "Included in Scale",
+      "risk-ai": "Included in Scale",
+      "growth": "Included in Launch",
+      "bmc": "Included in Launch",
+      "financial": "Included in Scale",
+      "label1275": "Included in annual bundle"
+    },
+    "services": {
+      "readiness": {
+        "title": "Startup Readiness Assessment",
+        "desc": "Assess management, finance, governance, legal, and risk.",
+        "longDesc": "Get a score out of 100, diagnostic report, and action plan."
+      },
+      "investor": {
+        "title": "Investor Readiness",
+        "desc": "Analyze pitch deck, business model, revenue model, and projections.",
+        "longDesc": "Smart feedback to improve funding chances."
+      },
+      "compliance": {
+        "title": "Smart Compliance Assistant",
+        "desc": "Alerts on contracts, policies, data protection, internal control.",
+        "longDesc": "Avoid future legal and regulatory issues."
+      },
+      "governance": {
+        "title": "Startup Governance Builder",
+        "desc": "Generate policies, procedures, authority matrix, risk register.",
+        "longDesc": "Build your management structure quickly without expensive consultants."
+      },
+      "risk-ai": {
+        "title": "AI Risk Predictor",
+        "desc": "Early warnings on sales drop, rising costs, weak cash flow.",
+        "longDesc": "Detect problems before they happen from your financial data."
+      },
+      "growth": {
+        "title": "Startup Growth Dashboard",
+        "desc": "Burn rate, runway, growth rate, CAC, LTV.",
+        "longDesc": "Investor-grade KPI dashboard."
+      },
+      "bmc": {
+        "title": "Business Model Canvas",
+        "desc": "Full BMC: value proposition, segments, channels, costs & revenue.",
+        "longDesc": "Design a scalable business model for investors."
+      },
+      "financial": {
+        "title": "Financial aspects",
+        "desc": "Break-even, profitability, cash flow, financial readiness.",
+        "longDesc": "Financial feasibility analysis linked to your KPI data."
+      },
+      "label1275": {
+        "title": "Label Startup Preparation (1275)",
+        "desc": "Assess alignment with startup label and Decision 1275.",
+        "longDesc": "Choose the right path: CDE or business incubator."
+      }
+    },
+    "readiness": {
+      "formTitle": "Self-assessment (1 = weak, 5 = excellent)",
+      "management": "Management",
+      "finance": "Finance",
+      "governance": "Governance",
+      "legal": "Legal",
+      "risk": "Risk management",
+      "notes": "Additional notes",
+      "run": "Generate report"
+    },
+    "investor": { "run": "Analyze investor readiness" },
+    "compliance": {
+      "refresh": "Refresh alerts",
+      "refreshed": "Compliance alerts updated",
+      "done": "Done"
+    },
+    "governance": {
+      "teamSize": "Team size",
+      "sector": "Sector",
+      "run": "Generate governance pack"
+    },
+    "risk": {
+      "refresh": "Re-analyze",
+      "empty": "No alerts — add financial periods in KPI"
+    },
+    "growth": {
+      "noData": "Add a financial period in KPI to see burn rate and runway",
+      "addData": "Add financial data"
+    },
+    "work": {
+      "saved": "Draft saved",
+      "formTitle": "Project details",
+      "projectTitle": "Project title *",
+      "projectSummary": "Project description *",
+      "extraNotes": "Extra notes (optional)",
+      "generate": "Generate draft"
+    },
+    "label1275": {
+      "isInnovative": "Innovative project",
+      "hasTechComponent": "Has tech component",
+      "hasScalability": "Scalable",
+      "hasMarketStudy": "Market study available",
+      "hasPitchDeck": "Pitch deck ready",
+      "hasGrowthMetrics": "Growth metrics documented",
+      "projectDescription": "Project description",
+      "run": "Assess best path"
+    },
+    "cdeGuide": {
+      "title": "CDE vs Incubator 1275?",
+      "intro": "Many students confuse CDE thesis with incubator thesis. Each path has different goals.",
+      "cdeTitle": "CDE thesis (Entrepreneurship Development Center)",
+      "cdeItems": ["Market study", "SWOT analysis", "Business Model Canvas", "Technical study", "Costs & revenue", "Financial aspects"],
+      "incubatorTitle": "Business incubator thesis (1275)",
+      "incubatorItems": ["Innovation & value proposition", "Startup label readiness", "Professional pitch deck", "Growth & expansion metrics", "Funding opportunities", "Business Model Canvas (BMC)", "Financial aspects of the project"],
+      "conclusion": "Traditional business project → CDE. Innovative/tech startup → Incubator 1275.",
+      "cta": "Assess your project path now"
+    }
+  },
+  "sme": {
+    "hub": {
+      "title": "SME Services Hub",
+      "subtitle": "6 smart tools — audit, risk, KPI, internal control, compliance, and AI assistant",
+      "servicesTitle": "Available tools",
+      "open": "Open tool",
+      "back": "Back",
+      "auditReports": "Audit reports",
+      "riskAlerts": "Risk alerts",
+      "controlScore": "Internal control score",
+      "dueObligations": "Due obligations",
+      "loadError": "Failed to load data",
+      "retry": "Retry"
+    },
+    "pricing": {
+      "ai-audit": "Included in SME plan",
+      "risk": "Included in SME plan",
+      "kpi": "Included in SME plan",
+      "internal-control": "Included in SME plan",
+      "legal-compliance": "Included in SME plan",
+      "ai-assistant": "Included in SME plan"
+    },
+    "services": {
+      "ai-audit": {
+        "title": "AI Audit",
+        "desc": "Analyze accounting documents and detect errors and risks.",
+        "longDesc": "Paste accounting content and get an automatic audit report with score, findings, and recommendations."
+      },
+      "risk": {
+        "title": "Risk Dashboard",
+        "desc": "Track liquidity, collection, and supplier risks.",
+        "longDesc": "Instant alerts based on your financial data and risk register."
+      },
+      "kpi": {
+        "title": "KPI Dashboard",
+        "desc": "Profitability, liquidity, debt, and productivity.",
+        "longDesc": "Interactive charts and comprehensive financial metrics."
+      },
+      "internal-control": {
+        "title": "Internal Control Assessment",
+        "desc": "Digital questionnaires and automated assessment.",
+        "longDesc": "Extract strengths, weaknesses, and an improvement plan from your answers."
+      },
+      "legal-compliance": {
+        "title": "Legal & Tax Compliance",
+        "desc": "Tax declaration reminders and CNAS/CASNOS tracking.",
+        "longDesc": "Smart calendar for legal and tax obligations in Algeria."
+      },
+      "ai-assistant": {
+        "title": "AI Business Assistant",
+        "desc": "Answers manager questions and explains financial KPIs.",
+        "longDesc": "Suggestions to improve performance and reduce risks based on your company data."
+      }
+    },
+    "audit": {
+      "formTitle": "Analyze accounting documents",
+      "period": "Accounting period",
+      "content": "Document content",
+      "contentPlaceholder": "Paste balance sheet, income statement, journal entries, or accounting summary...",
+      "run": "Run AI audit",
+      "done": "Audit report created",
+      "result": "Analysis result",
+      "risks": "Detected risks",
+      "recommendations": "Recommendations"
+    },
+    "risk": {
+      "refresh": "Refresh analysis",
+      "liquidity": "Liquidity risks",
+      "collection": "Collection risks",
+      "suppliers": "Supplier risks",
+      "registered": "Registered risks",
+      "alerts": "Instant alerts",
+      "empty": "No alerts — add financial periods in Reports",
+      "manage": "Manage risk register"
+    },
+    "kpi": {
+      "profitability": "Profitability",
+      "liquidity": "Liquidity",
+      "debt": "Debt",
+      "productivity": "Productivity",
+      "grossMargin": "Gross margin",
+      "ebitdaMargin": "EBITDA margin",
+      "netMargin": "Net margin",
+      "netIncome": "Net income",
+      "cash": "Cash",
+      "runway": "Runway",
+      "cashRatio": "Cash/liabilities ratio",
+      "debtRatio": "Debt ratio",
+      "equityRatio": "Equity ratio",
+      "liabilities": "Liabilities",
+      "revPerEmployee": "Revenue/employee",
+      "revPerCustomer": "Revenue/customer",
+      "customers": "Customers",
+      "revenueChart": "Revenue trend",
+      "noData": "Add a financial period in Reports to view KPIs",
+      "addData": "Add financial data"
+    },
+    "control": {
+      "formTitle": "Internal control questionnaire (1 = weak, 5 = excellent)",
+      "questions": {
+        "segregation": "Segregation of duties",
+        "authorization": "Authorization matrix",
+        "inventory": "Inventory control",
+        "reconciliation": "Bank reconciliation",
+        "payroll": "Payroll controls",
+        "purchases": "Purchase procedures",
+        "it_access": "IT access controls",
+        "documentation": "Policy documentation"
+      },
+      "notes": "Additional notes",
+      "run": "Run assessment",
+      "done": "Assessment created",
+      "result": "Assessment result",
+      "score": "Overall score",
+      "strengths": "Strengths",
+      "weaknesses": "Weaknesses",
+      "actionPlan": "Improvement plan"
+    },
+    "compliance": {
+      "initCalendar": "Activate obligation calendar",
+      "seeded": "Compliance calendar created",
+      "due": "Due",
+      "done": "Done"
+    },
+    "assistant": {
+      "hint": "Ask about your financial KPIs, risks, or how to improve performance...",
+      "placeholder": "e.g. How can I improve net margin?",
+      "send": "Send"
+    }
+  },
+  "cde": {
+    "saved": "Draft saved",
+    "result": "Generated draft",
+    "hub": {
+      "title": "CDE Thesis",
+      "subtitle": "Tools for CDE entrepreneurship center thesis — from market study to financials",
+      "badge": "CDE track",
+      "start": "Start module",
+      "edit": "Edit draft",
+      "back": "Back"
+    },
+    "form": {
+      "title": "Project details",
+      "projectTitle": "Project title *",
+      "projectSummary": "Project description *",
+      "extraNotes": "Extra notes (optional)",
+      "generate": "Generate draft"
+    },
+    "modules": {
+      "market": { "title": "Market study", "desc": "Market size, competitors, target customers.", "longDesc": "Full market study for CDE thesis." },
+      "swot": { "title": "SWOT analysis", "desc": "Strengths, weaknesses, opportunities, threats.", "longDesc": "Strategic SWOT for your project." },
+      "bmc": { "title": "Business Model Canvas", "desc": "Value proposition, segments, channels, costs & revenue.", "longDesc": "Complete BMC for your project." },
+      "technical": { "title": "Technical study", "desc": "Resources, equipment, processes, schedule.", "longDesc": "Technical and operational study." },
+      "costs": { "title": "Costs & revenue", "desc": "Investment and operating cost estimates.", "longDesc": "Cost and revenue tables." },
+      "financial": { "title": "Financial aspects", "desc": "Break-even, profitability, cash flow.", "longDesc": "Financial feasibility analysis." }
+    }
+  },
+  "bmc": {
+    "title": "Business Model Canvas",
+    "blocks": {
+      "customerSegments": "Customer Segments",
+      "valuePropositions": "Value Propositions",
+      "channels": "Channels",
+      "customerRelationships": "Customer Relationships",
+      "revenueStreams": "Revenue Streams",
+      "keyResources": "Key Resources",
+      "keyActivities": "Key Activities",
+      "keyPartners": "Key Partners",
+      "costStructure": "Cost Structure"
+    }
+  },
+  "financialPlan": {
+    "title": "Project financial plan",
+    "subtitle": "Based on Ministry Startup Business Plan & break-even template",
+    "back": "Back",
+    "projectTitle": "Project title",
+    "projectSummary": "Project description (for AI draft)",
+    "depreciationYears": "Depreciation period (years)",
+    "save": "Save plan",
+    "generateAi": "Generate AI draft",
+    "saved": "Financial plan saved",
+    "draftReady": "Draft generated",
+    "addRow": "Add row",
+    "label": "Item",
+    "designation": "Label",
+    "functionality": "Function",
+    "unitPrice": "Price",
+    "total": "Total",
+    "tabs": {
+      "breakEven": "Break-even",
+      "revenue": "Revenue",
+      "direct": "Direct purchases",
+      "payroll": "Payroll",
+      "external": "External charges",
+      "investment": "Investment",
+      "pl": "P&L & results"
+    },
+    "be": {
+      "variable": "Variable costs (CV) — per unit",
+      "fixed": "Fixed costs (CF) — annual",
+      "sellingPrice": "Selling price per unit",
+      "expectedQty": "Expected annual quantity",
+      "unitCost": "Unit cost",
+      "breakEven": "Break-even (qty)",
+      "revenue": "Annual revenue",
+      "funding": "Funding need — Year 1"
+    },
+    "pl": {
+      "line": "Line",
+      "revenue": "Revenue",
+      "direct": "Direct purchases",
+      "gross": "Gross margin",
+      "external": "External charges",
+      "payroll": "Payroll & social",
+      "ebitda": "EBITDA",
+      "depreciation": "Depreciation",
+      "net": "Net result",
+      "grossRate": "Gross margin %",
+      "ebitdaRate": "EBITDA %"
+    },
+    "synthesis": "Funding summary",
+    "synthesis.investment": "Total investment",
+    "synthesis.payroll": "Payroll — Year 1",
+    "synthesis.external": "External — Year 1"
+  }
+}
