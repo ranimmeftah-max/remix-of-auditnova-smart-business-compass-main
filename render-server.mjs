@@ -98,7 +98,8 @@ async function tryServeStatic(req, res) {
 
   let filePath = null;
   if (pathname.startsWith("/assets/")) {
-    filePath = safeResolve(ASSETS_DIR, pathname);
+    const rel = pathname.slice("/assets/".length);
+    filePath = safeResolve(ASSETS_DIR, rel);
   } else if (pathname === "/manifest.webmanifest") {
     filePath = path.join(CLIENT_DIR, "manifest.webmanifest");
   }
