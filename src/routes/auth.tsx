@@ -16,20 +16,13 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import {
   Select, SelectContent, SelectItem, SelectTrigger, SelectValue,
 } from "@/components/ui/select";
+import { ACCOUNT_TYPES, SUBTYPES } from "@/lib/account-types";
 
 type Mode = "signin" | "signup";
 
 const authSearchSchema = z.object({
   mode: z.enum(["signin", "signup"]).optional().default("signin"),
 });
-
-const ACCOUNT_TYPES = ["enterprise", "professional", "academic", "investor"] as const;
-const SUBTYPES: Record<(typeof ACCOUNT_TYPES)[number], string[]> = {
-  enterprise: ["Startup", "SME", "Micro Enterprise"],
-  professional: ["Accountant", "Auditor", "Financial Consultant", "Business Mentor"],
-  academic: ["Student", "Professor", "Researcher"],
-  investor: ["Investor", "Entrepreneur", "Project Holder"],
-};
 
 type Wilaya = { code: number; name_ar: string; name_fr: string; name_en: string };
 

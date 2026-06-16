@@ -101,50 +101,121 @@
     }
   },
   "pricing": {
-    "title": "Des tarifs adaptés à chaque étape",
-    "subtitle": "Commencez gratuitement, évoluez selon vos besoins. 50% pour étudiants et professeurs.",
-    "free": {
-      "name": "Gratuit",
-      "price": "0",
-      "desc": "Pour explorer"
-    },
-    "monthly": {
-      "name": "Mensuel",
-      "price": "4 900",
-      "desc": "Pour équipes en croissance",
-      "period": "/mois"
-    },
-    "annual": {
-      "name": "Annuel",
-      "price": "49 000",
-      "desc": "Économisez 2 mois",
-      "period": "/an"
-    },
-    "cta": "Commencer",
+    "title": "Offres AuditNova — Décision 1275",
+    "subtitle": "Commencez gratuitement (Discovery), puis évoluez selon votre rôle : étudiant, mentor, startup ou incubateur.",
+    "trial": "Commencez avec l'offre Discovery gratuite pour intégrer les étudiants et tester la plateforme",
+    "cta": "Créer un compte",
     "ctaPremium": "S'abonner",
+    "ctaContact": "Nous contacter",
     "currency": "DZD",
-    "trial": "Tous les plans incluent 14 jours d'essai gratuit",
-    "startupSection": {
-      "title": "Offres Startup",
-      "subtitle": "Services innovants pour startups — tarifs adaptés à votre stade de croissance",
-      "launch": {
-        "name": "Launch",
-        "price": "9 900",
-        "period": "/mois",
-        "desc": "Essentiels : readiness, conformité, croissance"
+    "labels": {
+      "goal": "Objectif",
+      "value": "Valeur",
+      "target": "Cible"
+    },
+    "plans": {
+      "discovery": {
+        "name": "Discovery (Gratuit)",
+        "price": "0",
+        "desc": "Pour les étudiants : découverte et préparation du projet",
+        "features": {
+          "account": "Créer un compte projet",
+          "1275": "Suivre les étapes de la décision 1275",
+          "upload": "Téléverser des fichiers",
+          "progress": "Suivi d'avancement",
+          "library": "Bibliothèque de ressources"
+        },
+        "goal": "Attirer le plus grand nombre d'étudiants"
       },
-      "scale": {
-        "name": "Scale",
-        "price": "19 900",
+      "student_plus": {
+        "name": "Student+",
+        "price": "800",
         "period": "/mois",
-        "desc": "Launch + investisseurs, gouvernance, risque IA"
+        "desc": "Outils supplémentaires pour gagner du temps et accélérer les livrables",
+        "features": {
+          "ai_thesis": "Assistant IA pour le mémoire",
+          "swot": "SWOT généré automatiquement",
+          "bmc": "BMC généré automatiquement",
+          "pitch": "Pitch deck initial",
+          "readiness": "Évaluation de la maturité du projet",
+          "innovation": "Suggestions pour améliorer l'innovation"
+        },
+        "value": "Fait gagner de nombreuses heures aux étudiants"
       },
-      "annual": {
-        "name": "Pack annuel complet",
-        "price": "189 000",
-        "period": "/an",
-        "desc": "8 services + support prioritaire + rapports illimités"
+      "mentor_pro": {
+        "name": "Mentor Pro",
+        "price": "2500",
+        "period": "/mois",
+        "desc": "Tableau de bord pour encadrer les étudiants et évaluer les projets",
+        "features": {
+          "multi_projects": "Gérer plusieurs projets",
+          "student_followup": "Suivi des étudiants",
+          "evaluation": "Évaluation des projets",
+          "reports": "Rapports d'avancement",
+          "feedback": "Commentaires et retours directs",
+          "mentor_dashboard": "Tableau de bord dédié"
+        },
+        "target": "Professeurs, experts et mentors"
+      },
+      "startup": {
+        "name": "Startup",
+        "price": "4000",
+        "period": "/mois",
+        "desc": "Pour les projets validés en startup : croissance et préparation investisseurs",
+        "features": {
+          "pro_dashboard": "Dashboard professionnel",
+          "growth_kpis": "Indicateurs de croissance",
+          "risk": "Gestion des risques",
+          "tasks": "Gestion des tâches",
+          "investors": "Suivi investisseurs",
+          "performance_reports": "Rapports de performance",
+          "investment_readiness": "Préparation à l'investissement"
+        }
+      },
+      "incubator": {
+        "name": "Incubator",
+        "price": "20000",
+        "period": "/mois",
+        "desc": "Suite complète pour incubateurs : gestion, analytics et reporting",
+        "features": {
+          "unlimited_students": "Étudiants illimités",
+          "mentor_management": "Gestion des mentors",
+          "project_management": "Gestion des projets",
+          "stats": "Rapports statistiques",
+          "readiness_classification": "Classement par maturité",
+          "incubator_kpis": "KPI incubateur",
+          "ai_evaluation": "Évaluation IA des projets",
+          "pdf_reports": "Rapports PDF pour la direction"
+        },
+        "value": "Réduit le suivi manuel, le papier et les rapports faits à la main"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "customPrice": "Sur devis",
+        "desc": "Pour universités, ministères et programmes publics",
+        "features": {
+          "custom_users_services": "Selon le nombre d'utilisateurs et les services"
+        }
       }
+    },
+    "subscribe": {
+      "title": "Abonnez-vous",
+      "subtitle": "Complétez vos informations et nous vous contacterons pour activer votre offre",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "city": "Ville",
+      "cityPlaceholder": "Choisir une wilaya",
+      "accountType": "Type de compte",
+      "specialty": "Spécialité",
+      "plan": "Formule d'abonnement",
+      "submit": "Confirmer la demande",
+      "sent": "Demande envoyée",
+      "success": "Votre demande a été envoyée. Nous vous contacterons bientôt.",
+      "error": "Impossible d'envoyer la demande. Réessayez plus tard.",
+      "validationError": "Veuillez vérifier tous les champs obligatoires",
+      "cityRequired": "Veuillez sélectionner votre ville (wilaya)"
     }
   },
   "about": {

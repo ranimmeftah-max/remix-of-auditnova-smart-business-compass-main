@@ -101,50 +101,121 @@
     }
   },
   "pricing": {
-    "title": "Flexible pricing for every stage",
-    "subtitle": "Start free and upgrade when you grow. 50% off for students and professors.",
-    "free": {
-      "name": "Free",
-      "price": "0",
-      "desc": "To explore"
-    },
-    "monthly": {
-      "name": "Monthly",
-      "price": "4,900",
-      "desc": "For growing teams",
-      "period": "/mo"
-    },
-    "annual": {
-      "name": "Annual",
-      "price": "49,000",
-      "desc": "Save 2 months",
-      "period": "/yr"
-    },
-    "cta": "Get started",
+    "title": "AuditNova plans — Decision 1275",
+    "subtitle": "Start free (Discovery), then upgrade based on your role: student, mentor, startup, or incubator.",
+    "trial": "Start with the free Discovery plan to onboard students and try the platform",
+    "cta": "Create account",
     "ctaPremium": "Subscribe",
+    "ctaContact": "Contact us",
     "currency": "DZD",
-    "trial": "All plans include a 14-day free trial",
-    "startupSection": {
-      "title": "Startup plans",
-      "subtitle": "Innovative services tailored for startups — pricing that fits your growth stage",
-      "launch": {
-        "name": "Launch",
-        "price": "9,900",
-        "period": "/mo",
-        "desc": "Essentials: readiness, compliance, growth"
+    "labels": {
+      "goal": "Goal",
+      "value": "Value",
+      "target": "Target"
+    },
+    "plans": {
+      "discovery": {
+        "name": "Discovery (Free)",
+        "price": "0",
+        "desc": "For students to explore the platform and build their project",
+        "features": {
+          "account": "Create a project account",
+          "1275": "Track Decision 1275 steps",
+          "upload": "Upload files",
+          "progress": "Progress tracking",
+          "library": "Learning resources library"
+        },
+        "goal": "Attract the largest number of students"
       },
-      "scale": {
-        "name": "Scale",
-        "price": "19,900",
+      "student_plus": {
+        "name": "Student+",
+        "price": "800",
         "period": "/mo",
-        "desc": "Launch + investor readiness, governance, AI risk"
+        "desc": "Extra tools for students to save time and accelerate submissions",
+        "features": {
+          "ai_thesis": "AI assistant for the thesis",
+          "swot": "Auto-generate SWOT",
+          "bmc": "Auto-generate BMC",
+          "pitch": "Generate an initial pitch deck",
+          "readiness": "Project readiness assessment",
+          "innovation": "Innovation improvement suggestions"
+        },
+        "value": "Saves many hours of work for students"
       },
-      "annual": {
-        "name": "Full annual bundle",
-        "price": "189,000",
-        "period": "/yr",
-        "desc": "All 8 services + priority support + unlimited reports"
+      "mentor_pro": {
+        "name": "Mentor Pro",
+        "price": "2500",
+        "period": "/mo",
+        "desc": "Mentor dashboard to supervise students and evaluate projects",
+        "features": {
+          "multi_projects": "Manage multiple projects",
+          "student_followup": "Student follow-up",
+          "evaluation": "Project evaluation",
+          "reports": "Progress reports",
+          "feedback": "Direct comments and feedback",
+          "mentor_dashboard": "Dedicated mentor dashboard"
+        },
+        "target": "Professors, experts, and mentors"
+      },
+      "startup": {
+        "name": "Startup",
+        "price": "4000",
+        "period": "/mo",
+        "desc": "For validated startup projects — growth and investor readiness tools",
+        "features": {
+          "pro_dashboard": "Professional dashboard",
+          "growth_kpis": "Growth KPIs",
+          "risk": "Risk management",
+          "tasks": "Task management",
+          "investors": "Investor tracking",
+          "performance_reports": "Performance reports",
+          "investment_readiness": "Investor readiness assessment"
+        }
+      },
+      "incubator": {
+        "name": "Incubator",
+        "price": "20000",
+        "period": "/mo",
+        "desc": "All-in-one suite for incubators: management, analytics, and reports",
+        "features": {
+          "unlimited_students": "Unlimited students",
+          "mentor_management": "Mentor management",
+          "project_management": "Project management",
+          "stats": "Statistics reports",
+          "readiness_classification": "Readiness classification",
+          "incubator_kpis": "Incubator KPIs",
+          "ai_evaluation": "AI project evaluation",
+          "pdf_reports": "PDF reports for management"
+        },
+        "value": "Saves follow-up time and reduces paperwork and manual reporting"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "customPrice": "Custom",
+        "desc": "For universities, ministries, and public entrepreneurship programs",
+        "features": {
+          "custom_users_services": "Based on users count and required services"
+        }
       }
+    },
+    "subscribe": {
+      "title": "Subscribe with us",
+      "subtitle": "Fill in your details and we will contact you to activate your plan",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone number",
+      "city": "City",
+      "cityPlaceholder": "Select wilaya",
+      "accountType": "Account type",
+      "specialty": "Specialty",
+      "plan": "Subscription plan",
+      "submit": "Confirm request",
+      "sent": "Request sent",
+      "success": "Your request was sent successfully. We will contact you soon.",
+      "error": "Could not send your request. Please try again later.",
+      "validationError": "Please check all required fields",
+      "cityRequired": "Please select your city (wilaya)"
     }
   },
   "about": {
